@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Gratis
-email: your-email@example.com
+email: gratis@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Wszytkie promocje zawarte sa na tej stronie.
 baseurl: "/redirect" # the subpath of your site, e.g. /blog
