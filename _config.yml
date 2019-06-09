@@ -17,7 +17,7 @@ title: Gratis
 email: gratis@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Wszytkie promocje zawarte sa na tej stronie.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/all" # the subpath of your site, e.g. /blog
 url: "gratisxpromo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
